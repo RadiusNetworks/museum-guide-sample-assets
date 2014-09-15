@@ -1,0 +1,39 @@
+<html>
+<head>
+<style>
+html {
+    font-size: 1em;
+    line-height: 1.0;
+}
+
+body {
+  color: #333333;
+  font-family: sans-serif;
+}
+
+h1 {
+	-webkit-margin-before: 0.1em;
+	-webkit-margin-after: 0.1em;
+}
+
+h3 {
+	-webkit-margin-before: 0.1em;
+	-webkit-margin-after: 0.1em;
+}
+</style>
+</head>
+<body>
+<h1>Bell XP-59A</h1>
+<h3>1942</h3>
+
+
+<p>This aircraft, the first Bell XP-59A, is the direct ancestor of all American jet aircraft. Built for testing purposes, it proved that turbojet-powered flight was feasible and efficient.
+
+
+
+
+
+
+
+</body>
+</html>
